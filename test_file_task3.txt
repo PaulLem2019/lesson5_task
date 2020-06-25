@@ -1,0 +1,10 @@
+Ivanov 23000.0
+Petrov 19000.4
+Selantiev 21000.6
+Aronov 17500.9
+Platov 19000.0
+Cumin 13000.0
+Zelov 25000.4
+Lorin 28000.6
+Karpov 19500.9
+Remin 15000.0
